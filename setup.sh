@@ -19,3 +19,6 @@ cd ~/Downloads
 git clone https://github.com/hlissner/doom-emacs ~/.emacs.d
 ~/.emacs.d/bin/doom install
 #This is a empty doom emacs install, I will leave it this way for now so each system wont get too bloated
+
+#Now I need to set the wallpaper, point to a screenlayout location and sh file. I need to add the swap caps into the i3 config
+#Need to set all the keybinds in the i3 config but I will leave the doom emacs config untouched.
