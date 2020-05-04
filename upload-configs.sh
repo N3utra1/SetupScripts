@@ -14,3 +14,7 @@ cp ~/.bashrc /bash-config/
 
 rm -r /bin-files/*
 cp ~/.Bin/* /bin-files
+
+git add .
+git commit
+git push

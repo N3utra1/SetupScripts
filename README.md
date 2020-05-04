@@ -6,7 +6,8 @@ Discord, Feh, Okular, Htop, Arandr and Gimp.
 This will need root user to install and will be for systems using the DNF
 package manager.
 
-The dependencies will be an installation of i3-gaps
+The dependencies will be an installation of i3-gaps and that the repo will 
+have to be installed under Downloads/SetupScripts
 
-The system will install keybindings in the config file of i3-gaps, will set
-the wallpaper from ~/Pictures/Wallpaper/Active and will also install Doom emacs.
+The system will install keybindings in the config file of i3 and also in the
+bash config, furthermore it will also install a selection of scripts under ~/.Bin
